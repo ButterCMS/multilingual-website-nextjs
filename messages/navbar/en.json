@@ -1,0 +1,8 @@
+{
+  "navbar": {
+    "home": "Home",
+    "ssg": "SSG",
+    "ssr": "SSR",
+    "switchLocale": "Switch to {locale}"
+  }
+}
